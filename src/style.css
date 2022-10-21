@@ -7,14 +7,14 @@
 }
 
 .container {
-    width: 317px;
+    width: 500px;
     margin: 0 auto;
-    padding-top: 5rem;
+    padding-block: 2rem;
 }
 
 body {
     background-color: rgb(35, 37, 44);
-    height: 100vh;
+    min-height: 100%;
 }
 
 .bg-primary {

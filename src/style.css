@@ -1,0 +1,22 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 317px;
+    margin: 0 auto;
+    padding-top: 5rem;
+}
+
+body {
+    background-color: rgb(35, 37, 44);
+    height: 100vh;
+}
+
+.bg-primary {
+    background-color: rgb(26, 27, 33);
+}
